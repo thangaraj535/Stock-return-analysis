@@ -1,2 +1,2 @@
-# VFSL-Direct
-This is the return analysis project of the major bank stocks
+
+This project was developed to analyze the profit scale of the major banking stocks for longterm investment.
